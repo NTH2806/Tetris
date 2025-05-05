@@ -14,7 +14,6 @@
 ## 1. Hướng dẫn cài đặt
 - Để khởi động trò chơi, click minimi.exe hoặc ở terminal cd tới file project rồi chạy lệnh try cập file ./minimi hoặc ./minimi.exe. <br />
 
-
 * <a name="info"/>
 ## 2. Mô tả chung <br />
 
@@ -58,7 +57,6 @@ Chứa thông tin cụ thể về trò chơi:
 - Các kỹ thuật, syntax của SDL.
 - Kỹ thuật giải phóng bộ nhớ động. <br />
 
-
 ### Ứng dụng
 - Thuật toán sinh Khối Hình ngẫu nhiên giảm tỷ lệ sinh 2 khối giống nhau liên tiếp. <br />
 - Mỗi chức năng của game (Start, Setting, Help), mỗi Khối hình (Block) được xác định bằng 1 đối tượng (struct) riêng biệt.  <br />
@@ -75,7 +73,6 @@ Chứa thông tin cụ thể về trò chơi:
 - Thềm Music Volume, Thêm level, Thêm hai button reset chức năng về mặc định(do em để). <br />
 - Thêm các giá trị ON - OFF cho Music. <br />
 - Thêm level từ 1 đến 5 - các độ khó của game vào phần Level <br />
-
 
 * <a name="summary"/>
 ## 6. Kết luận
