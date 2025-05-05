@@ -73,7 +73,7 @@ Chứa thông tin cụ thể về trò chơi:
 ### Chỉnh sửa lại phần Setting của game ,cải thiện bổ sung thêm chức năng cho Setting:<br />
 - Thềm Music Volume, Thêm level, Thêm hai button reset chức năng về mặc định(do em để). <br />
 - Thêm các giá trị ON - OFF cho Music. <br />
-- Thêm level từ 1 đến 5 - các độ khó của game vào phần Level <br />
+- Thêm level từ 1 đến 5 - các độ khó của game vào phần Level.<br />
 
 * <a name="summary"/>
 ## 6. Kết luận
