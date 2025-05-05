@@ -12,6 +12,7 @@
 
 * <a name="setup"/>
 ## 1. Hướng dẫn cài đặt
+- Tải file game ở branch master <br />
 - Để khởi động trò chơi, click minimi.exe hoặc ở terminal cd tới file project rồi chạy lệnh try cập file ./minimi hoặc ./minimi.exe. <br />
 
 * <a name="info"/>
