@@ -9,7 +9,6 @@
 * [Các hướng đi trong tương lai](#future)
 * [Kết luận](#summary)
 
-
 * <a name="setup"/>
 ## 1. Hướng dẫn cài đặt
 - Tải file game ở branch master <br />
