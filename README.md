@@ -12,8 +12,8 @@
 * <a name="setup"/>
 ## 1. Hướng dẫn cài đặt
 - Tải file game ở branch master <br />
-- Để khởi động trò chơi, click minimi.exe hoặc ở terminal cd tới file project rồi chạy lệnh try cập file ./minimi hoặc ./minimi.exe. <br />
-
+- Để khởi động trò chơi, click minimi.exe hoặc ở terminal cd tới file project rồi chạy lệnh truy cập file ./minimi hoặc ./minimi.exe. <br />
+- Để build lại chương trình thì sử dụng cmd: mingw32-make -f makefile <br />
 * <a name="info"/>
 ## 2. Mô tả chung <br />
 
