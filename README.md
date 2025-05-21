@@ -76,7 +76,6 @@ Chứa thông tin cụ thể về trò chơi:
 
 * <a name="summary"/>
 ## 6. Kết luận
-Game được viết do bản thân 100%, có sự học hỏi từ lazyfoo. <br />
 ### Việc hoàn thiện 1 dự án lập trình như thế này giúp em mở mang kiến thức rất nhiều.<br />
 - Hiểu được mô hình phát triển 1 phần mềm kiểu thác nước: Phân tích, thiết kế, lập trình, kiểm thử, chuyển giao và bảo trì (forever). <br />
 - Sử dụng thành thạo pointer, chia tách file,...<br />
